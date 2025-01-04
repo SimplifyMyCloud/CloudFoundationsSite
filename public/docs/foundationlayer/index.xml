@@ -1,0 +1,45 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Foundations – Foundation Layer</title>
+    <link>http://localhost:50391/docs/foundationlayer/</link>
+    <description>Recent content in Foundation Layer on Cloud Foundations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Jan 2025 22:06:06 -0500</lastBuildDate>
+    
+	  <atom:link href="http://localhost:50391/docs/foundationlayer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Firewalls</title>
+      <link>http://localhost:50391/docs/foundationlayer/firewalls/</link>
+      <pubDate>Fri, 03 Jan 2025 22:06:06 -0500</pubDate>
+      
+      <guid>http://localhost:50391/docs/foundationlayer/firewalls/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Foundation Layer</title>
+      <link>http://localhost:50391/docs/foundationlayer/foundationlayer/</link>
+      <pubDate>Fri, 03 Jan 2025 22:04:20 -0500</pubDate>
+      
+      <guid>http://localhost:50391/docs/foundationlayer/foundationlayer/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

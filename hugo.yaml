@@ -21,13 +21,13 @@ languages:
   en:
     languageName: English
     weight: 1
-    title: Hextra
+    title: Cloud Foundations
 
 module:
   hugoVersion:
     extended: true
     min: "0.112.0"
-    
+
   imports:
     - path: github.com/imfing/hextra
 
@@ -52,9 +52,9 @@ menu:
       name: Documentation
       pageRef: /docs
       weight: 1
-    - identifier: showcase
-      name: Showcase
-      pageRef: /showcase
+    - identifier: Best Practices
+      name: Best Practices
+      pageRef: /bestpractices
       weight: 2
     - identifier: blog
       name: Blog
@@ -70,7 +70,7 @@ menu:
         type: search
     - name: GitHub
       weight: 6
-      url: "https://github.com/imfing/hextra"
+      url: "https://github.com/SimplifyMyCloud/"
       params:
         icon: github
 
@@ -90,7 +90,7 @@ menu:
       weight: 3
 
 params:
-  description: Modern, responsive, batteries-included Hugo theme for creating beautiful static websites.
+  description: Empathic, secured, automated, infrastructure state in code, Cloud Foundations
 
   navbar:
     displayTitle: true
