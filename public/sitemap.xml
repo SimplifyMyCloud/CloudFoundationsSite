@@ -2,11 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:50592/docs/infrastructurelayers/foundationlayer/</loc>
+    <lastmod>2025-01-03T22:30:40-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:50592/docs/service/vm/</loc>
+    <lastmod>2025-01-03T22:28:47-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:50592/docs/foundation/aws-accounts/</loc>
     <lastmod>2025-01-03T22:23:49-05:00</lastmod>
   </url><url>
     <loc>http://localhost:50592/docs/infrastructurelayers/</loc>
     <lastmod>2025-01-03T22:19:49-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:50592/docs/infrastructurelayers/servicelayer/</loc>
+    <lastmod>2025-01-03T22:30:45-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:50592/docs/service/k8s/</loc>
+    <lastmod>2025-01-03T22:28:55-05:00</lastmod>
   </url><url>
     <loc>http://localhost:50592/docs/foundation/gcp-projects/</loc>
     <lastmod>2025-01-03T22:23:41-05:00</lastmod>
@@ -14,11 +26,20 @@
     <loc>http://localhost:50592/docs/foundation/</loc>
     <lastmod>2025-01-03T22:20:05-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:50592/docs/infrastructurelayers/applayer/</loc>
+    <lastmod>2025-01-03T22:30:50-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:50592/docs/service/buckets/</loc>
+    <lastmod>2025-01-03T22:29:00-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:50592/docs/foundation/iam/</loc>
     <lastmod>2025-01-03T22:23:22-05:00</lastmod>
   </url><url>
     <loc>http://localhost:50592/docs/service/</loc>
     <lastmod>2025-01-03T22:20:11-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:50592/docs/service/databases/</loc>
+    <lastmod>2025-01-03T22:29:14-05:00</lastmod>
   </url><url>
     <loc>http://localhost:50592/docs/foundation/vpc/</loc>
     <lastmod>2025-01-03T22:24:14-05:00</lastmod>

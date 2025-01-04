@@ -15,5 +15,57 @@
       
     
     
+    <item>
+      <title>VMs</title>
+      <link>http://localhost:50592/docs/service/vm/</link>
+      <pubDate>Fri, 03 Jan 2025 22:28:47 -0500</pubDate>
+      
+      <guid>http://localhost:50592/docs/service/vm/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>K8s</title>
+      <link>http://localhost:50592/docs/service/k8s/</link>
+      <pubDate>Fri, 03 Jan 2025 22:28:55 -0500</pubDate>
+      
+      <guid>http://localhost:50592/docs/service/k8s/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Buckets</title>
+      <link>http://localhost:50592/docs/service/buckets/</link>
+      <pubDate>Fri, 03 Jan 2025 22:29:00 -0500</pubDate>
+      
+      <guid>http://localhost:50592/docs/service/buckets/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Databases</title>
+      <link>http://localhost:50592/docs/service/databases/</link>
+      <pubDate>Fri, 03 Jan 2025 22:29:14 -0500</pubDate>
+      
+      <guid>http://localhost:50592/docs/service/databases/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
   </channel>
 </rss>
