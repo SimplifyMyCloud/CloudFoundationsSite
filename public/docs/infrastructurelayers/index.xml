@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Foundations – Infrastructure Layers</title>
-    <link>http://localhost:50592/docs/infrastructurelayers/</link>
+    <link>http://localhost:50987/docs/infrastructurelayers/</link>
     <description>Recent content in Infrastructure Layers on Cloud Foundations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 03 Jan 2025 22:19:49 -0500</lastBuildDate>
     
-	  <atom:link href="http://localhost:50592/docs/infrastructurelayers/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:50987/docs/infrastructurelayers/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Foundation Layer</title>
-      <link>http://localhost:50592/docs/infrastructurelayers/foundationlayer/</link>
+      <link>http://localhost:50987/docs/infrastructurelayers/foundationlayer/</link>
       <pubDate>Fri, 03 Jan 2025 22:30:40 -0500</pubDate>
       
-      <guid>http://localhost:50592/docs/infrastructurelayers/foundationlayer/</guid>
+      <guid>http://localhost:50987/docs/infrastructurelayers/foundationlayer/</guid>
       <description>
         
         
@@ -30,10 +30,10 @@
     
     <item>
       <title>Service Layer</title>
-      <link>http://localhost:50592/docs/infrastructurelayers/servicelayer/</link>
+      <link>http://localhost:50987/docs/infrastructurelayers/servicelayer/</link>
       <pubDate>Fri, 03 Jan 2025 22:30:45 -0500</pubDate>
       
-      <guid>http://localhost:50592/docs/infrastructurelayers/servicelayer/</guid>
+      <guid>http://localhost:50987/docs/infrastructurelayers/servicelayer/</guid>
       <description>
         
         
@@ -43,10 +43,10 @@
     
     <item>
       <title>App Layer</title>
-      <link>http://localhost:50592/docs/infrastructurelayers/applayer/</link>
+      <link>http://localhost:50987/docs/infrastructurelayers/applayer/</link>
       <pubDate>Fri, 03 Jan 2025 22:30:50 -0500</pubDate>
       
-      <guid>http://localhost:50592/docs/infrastructurelayers/applayer/</guid>
+      <guid>http://localhost:50987/docs/infrastructurelayers/applayer/</guid>
       <description>
         
         

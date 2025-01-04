@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Foundations – Tags</title>
-    <link>http://localhost:50592/tags/</link>
+    <link>http://localhost:50987/tags/</link>
     <description>Recent content in Tags on Cloud Foundations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="http://localhost:50592/tags/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:50987/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
       

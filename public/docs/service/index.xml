@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Foundations – Service Assets</title>
-    <link>http://localhost:50592/docs/service/</link>
+    <link>http://localhost:50987/docs/service/</link>
     <description>Recent content in Service Assets on Cloud Foundations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 03 Jan 2025 22:20:11 -0500</lastBuildDate>
     
-	  <atom:link href="http://localhost:50592/docs/service/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:50987/docs/service/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>VMs</title>
-      <link>http://localhost:50592/docs/service/vm/</link>
+      <link>http://localhost:50987/docs/service/vm/</link>
       <pubDate>Fri, 03 Jan 2025 22:28:47 -0500</pubDate>
       
-      <guid>http://localhost:50592/docs/service/vm/</guid>
+      <guid>http://localhost:50987/docs/service/vm/</guid>
       <description>
         
         
@@ -30,10 +30,10 @@
     
     <item>
       <title>K8s</title>
-      <link>http://localhost:50592/docs/service/k8s/</link>
+      <link>http://localhost:50987/docs/service/k8s/</link>
       <pubDate>Fri, 03 Jan 2025 22:28:55 -0500</pubDate>
       
-      <guid>http://localhost:50592/docs/service/k8s/</guid>
+      <guid>http://localhost:50987/docs/service/k8s/</guid>
       <description>
         
         
@@ -43,10 +43,10 @@
     
     <item>
       <title>Buckets</title>
-      <link>http://localhost:50592/docs/service/buckets/</link>
+      <link>http://localhost:50987/docs/service/buckets/</link>
       <pubDate>Fri, 03 Jan 2025 22:29:00 -0500</pubDate>
       
-      <guid>http://localhost:50592/docs/service/buckets/</guid>
+      <guid>http://localhost:50987/docs/service/buckets/</guid>
       <description>
         
         
@@ -56,10 +56,10 @@
     
     <item>
       <title>Databases</title>
-      <link>http://localhost:50592/docs/service/databases/</link>
+      <link>http://localhost:50987/docs/service/databases/</link>
       <pubDate>Fri, 03 Jan 2025 22:29:14 -0500</pubDate>
       
-      <guid>http://localhost:50592/docs/service/databases/</guid>
+      <guid>http://localhost:50987/docs/service/databases/</guid>
       <description>
         
         

@@ -2,74 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:50592/docs/infrastructurelayers/foundationlayer/</loc>
-    <lastmod>2025-01-03T22:30:40-05:00</lastmod>
+    <loc>http://localhost:50987/docs/infrastructurelayers/foundationlayer/</loc>
+    <lastmod>2025-01-03T22:41:41-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:50592/docs/service/vm/</loc>
-    <lastmod>2025-01-03T22:28:47-05:00</lastmod>
+    <loc>http://localhost:50987/docs/service/vm/</loc>
+    <lastmod>2025-01-03T22:41:41-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:50592/docs/foundation/aws-accounts/</loc>
-    <lastmod>2025-01-03T22:23:49-05:00</lastmod>
+    <loc>http://localhost:50987/docs/foundation/aws-accounts/</loc>
+    <lastmod>2025-01-03T22:28:12-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:50592/docs/infrastructurelayers/</loc>
-    <lastmod>2025-01-03T22:19:49-05:00</lastmod>
+    <loc>http://localhost:50987/docs/infrastructurelayers/</loc>
+    <lastmod>2025-01-03T22:28:12-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:50592/docs/infrastructurelayers/servicelayer/</loc>
-    <lastmod>2025-01-03T22:30:45-05:00</lastmod>
+    <loc>http://localhost:50987/docs/infrastructurelayers/servicelayer/</loc>
+    <lastmod>2025-01-03T22:41:41-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:50592/docs/service/k8s/</loc>
-    <lastmod>2025-01-03T22:28:55-05:00</lastmod>
+    <loc>http://localhost:50987/docs/service/k8s/</loc>
+    <lastmod>2025-01-03T22:41:41-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:50592/docs/foundation/gcp-projects/</loc>
-    <lastmod>2025-01-03T22:23:41-05:00</lastmod>
+    <loc>http://localhost:50987/docs/foundation/gcp-projects/</loc>
+    <lastmod>2025-01-03T22:28:12-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:50592/docs/foundation/</loc>
-    <lastmod>2025-01-03T22:20:05-05:00</lastmod>
+    <loc>http://localhost:50987/docs/foundation/</loc>
+    <lastmod>2025-01-03T22:28:12-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:50592/docs/infrastructurelayers/applayer/</loc>
-    <lastmod>2025-01-03T22:30:50-05:00</lastmod>
+    <loc>http://localhost:50987/docs/infrastructurelayers/applayer/</loc>
+    <lastmod>2025-01-03T22:41:41-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:50592/docs/service/buckets/</loc>
-    <lastmod>2025-01-03T22:29:00-05:00</lastmod>
+    <loc>http://localhost:50987/docs/service/buckets/</loc>
+    <lastmod>2025-01-03T22:41:41-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:50592/docs/foundation/iam/</loc>
-    <lastmod>2025-01-03T22:23:22-05:00</lastmod>
+    <loc>http://localhost:50987/docs/foundation/iam/</loc>
+    <lastmod>2025-01-03T22:28:12-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:50592/docs/service/</loc>
-    <lastmod>2025-01-03T22:20:11-05:00</lastmod>
+    <loc>http://localhost:50987/docs/service/</loc>
+    <lastmod>2025-01-03T22:28:12-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:50592/docs/service/databases/</loc>
-    <lastmod>2025-01-03T22:29:14-05:00</lastmod>
+    <loc>http://localhost:50987/docs/service/databases/</loc>
+    <lastmod>2025-01-03T22:41:41-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:50592/docs/foundation/vpc/</loc>
-    <lastmod>2025-01-03T22:24:14-05:00</lastmod>
+    <loc>http://localhost:50987/docs/foundation/vpc/</loc>
+    <lastmod>2025-01-03T22:28:12-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:50592/docs/app/</loc>
-    <lastmod>2025-01-03T22:20:15-05:00</lastmod>
+    <loc>http://localhost:50987/docs/app/</loc>
+    <lastmod>2025-01-03T22:28:12-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:50592/docs/foundation/firewalls/</loc>
-    <lastmod>2025-01-03T22:23:03-05:00</lastmod>
+    <loc>http://localhost:50987/docs/foundation/firewalls/</loc>
+    <lastmod>2025-01-03T22:28:12-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:50592/docs/foundation/publicips/</loc>
-    <lastmod>2025-01-03T22:24:51-05:00</lastmod>
+    <loc>http://localhost:50987/docs/foundation/publicips/</loc>
+    <lastmod>2025-01-03T22:28:12-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:50592/docs/foundation/serviceaccounts/</loc>
-    <lastmod>2025-01-03T22:26:55-05:00</lastmod>
+    <loc>http://localhost:50987/docs/foundation/serviceaccounts/</loc>
+    <lastmod>2025-01-03T22:28:12-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:50592/docs/foundation/keys/</loc>
-    <lastmod>2025-01-03T22:27:31-05:00</lastmod>
+    <loc>http://localhost:50987/docs/foundation/keys/</loc>
+    <lastmod>2025-01-03T22:28:12-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:50592/blog/</loc>
+    <loc>http://localhost:50987/blog/</loc>
     <lastmod>2025-01-03T18:12:01-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:50592/</loc>
+    <loc>http://localhost:50987/</loc>
+    <lastmod>2025-01-03T22:41:41-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:50987/docs/</loc>
     <lastmod>2025-01-03T18:12:01-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:50592/docs/</loc>
-    <lastmod>2025-01-03T18:12:01-05:00</lastmod>
+    <loc>http://localhost:50987/categories/</loc>
   </url><url>
-    <loc>http://localhost:50592/categories/</loc>
-  </url><url>
-    <loc>http://localhost:50592/tags/</loc>
+    <loc>http://localhost:50987/tags/</loc>
   </url>
 </urlset>

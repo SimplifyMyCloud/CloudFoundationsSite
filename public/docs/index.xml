@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Foundations – Docs</title>
-    <link>http://localhost:50592/docs/</link>
+    <link>http://localhost:50987/docs/</link>
     <description>Recent content in Docs on Cloud Foundations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 03 Jan 2025 17:32:17 -0500</lastBuildDate>
     
-	  <atom:link href="http://localhost:50592/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:50987/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Foundation Layer</title>
-      <link>http://localhost:50592/docs/infrastructurelayers/foundationlayer/</link>
+      <link>http://localhost:50987/docs/infrastructurelayers/foundationlayer/</link>
       <pubDate>Fri, 03 Jan 2025 22:30:40 -0500</pubDate>
       
-      <guid>http://localhost:50592/docs/infrastructurelayers/foundationlayer/</guid>
+      <guid>http://localhost:50987/docs/infrastructurelayers/foundationlayer/</guid>
       <description>
         
         
@@ -30,10 +30,10 @@
     
     <item>
       <title>VMs</title>
-      <link>http://localhost:50592/docs/service/vm/</link>
+      <link>http://localhost:50987/docs/service/vm/</link>
       <pubDate>Fri, 03 Jan 2025 22:28:47 -0500</pubDate>
       
-      <guid>http://localhost:50592/docs/service/vm/</guid>
+      <guid>http://localhost:50987/docs/service/vm/</guid>
       <description>
         
         
@@ -43,10 +43,10 @@
     
     <item>
       <title>AWS Accounts</title>
-      <link>http://localhost:50592/docs/foundation/aws-accounts/</link>
+      <link>http://localhost:50987/docs/foundation/aws-accounts/</link>
       <pubDate>Fri, 03 Jan 2025 22:23:49 -0500</pubDate>
       
-      <guid>http://localhost:50592/docs/foundation/aws-accounts/</guid>
+      <guid>http://localhost:50987/docs/foundation/aws-accounts/</guid>
       <description>
         
         
@@ -56,10 +56,10 @@
     
     <item>
       <title>Service Layer</title>
-      <link>http://localhost:50592/docs/infrastructurelayers/servicelayer/</link>
+      <link>http://localhost:50987/docs/infrastructurelayers/servicelayer/</link>
       <pubDate>Fri, 03 Jan 2025 22:30:45 -0500</pubDate>
       
-      <guid>http://localhost:50592/docs/infrastructurelayers/servicelayer/</guid>
+      <guid>http://localhost:50987/docs/infrastructurelayers/servicelayer/</guid>
       <description>
         
         
@@ -69,10 +69,10 @@
     
     <item>
       <title>K8s</title>
-      <link>http://localhost:50592/docs/service/k8s/</link>
+      <link>http://localhost:50987/docs/service/k8s/</link>
       <pubDate>Fri, 03 Jan 2025 22:28:55 -0500</pubDate>
       
-      <guid>http://localhost:50592/docs/service/k8s/</guid>
+      <guid>http://localhost:50987/docs/service/k8s/</guid>
       <description>
         
         
@@ -82,10 +82,10 @@
     
     <item>
       <title>GCP Projects</title>
-      <link>http://localhost:50592/docs/foundation/gcp-projects/</link>
+      <link>http://localhost:50987/docs/foundation/gcp-projects/</link>
       <pubDate>Fri, 03 Jan 2025 22:23:41 -0500</pubDate>
       
-      <guid>http://localhost:50592/docs/foundation/gcp-projects/</guid>
+      <guid>http://localhost:50987/docs/foundation/gcp-projects/</guid>
       <description>
         
         
@@ -95,10 +95,10 @@
     
     <item>
       <title>App Layer</title>
-      <link>http://localhost:50592/docs/infrastructurelayers/applayer/</link>
+      <link>http://localhost:50987/docs/infrastructurelayers/applayer/</link>
       <pubDate>Fri, 03 Jan 2025 22:30:50 -0500</pubDate>
       
-      <guid>http://localhost:50592/docs/infrastructurelayers/applayer/</guid>
+      <guid>http://localhost:50987/docs/infrastructurelayers/applayer/</guid>
       <description>
         
         
@@ -108,10 +108,10 @@
     
     <item>
       <title>Buckets</title>
-      <link>http://localhost:50592/docs/service/buckets/</link>
+      <link>http://localhost:50987/docs/service/buckets/</link>
       <pubDate>Fri, 03 Jan 2025 22:29:00 -0500</pubDate>
       
-      <guid>http://localhost:50592/docs/service/buckets/</guid>
+      <guid>http://localhost:50987/docs/service/buckets/</guid>
       <description>
         
         
@@ -121,10 +121,10 @@
     
     <item>
       <title>IAM</title>
-      <link>http://localhost:50592/docs/foundation/iam/</link>
+      <link>http://localhost:50987/docs/foundation/iam/</link>
       <pubDate>Fri, 03 Jan 2025 22:23:22 -0500</pubDate>
       
-      <guid>http://localhost:50592/docs/foundation/iam/</guid>
+      <guid>http://localhost:50987/docs/foundation/iam/</guid>
       <description>
         
         
@@ -134,10 +134,10 @@
     
     <item>
       <title>Databases</title>
-      <link>http://localhost:50592/docs/service/databases/</link>
+      <link>http://localhost:50987/docs/service/databases/</link>
       <pubDate>Fri, 03 Jan 2025 22:29:14 -0500</pubDate>
       
-      <guid>http://localhost:50592/docs/service/databases/</guid>
+      <guid>http://localhost:50987/docs/service/databases/</guid>
       <description>
         
         
@@ -147,10 +147,10 @@
     
     <item>
       <title>VPC</title>
-      <link>http://localhost:50592/docs/foundation/vpc/</link>
+      <link>http://localhost:50987/docs/foundation/vpc/</link>
       <pubDate>Fri, 03 Jan 2025 22:24:14 -0500</pubDate>
       
-      <guid>http://localhost:50592/docs/foundation/vpc/</guid>
+      <guid>http://localhost:50987/docs/foundation/vpc/</guid>
       <description>
         
         
@@ -160,10 +160,10 @@
     
     <item>
       <title>Firewalls</title>
-      <link>http://localhost:50592/docs/foundation/firewalls/</link>
+      <link>http://localhost:50987/docs/foundation/firewalls/</link>
       <pubDate>Fri, 03 Jan 2025 22:23:03 -0500</pubDate>
       
-      <guid>http://localhost:50592/docs/foundation/firewalls/</guid>
+      <guid>http://localhost:50987/docs/foundation/firewalls/</guid>
       <description>
         
         
@@ -173,10 +173,10 @@
     
     <item>
       <title>Public IPs</title>
-      <link>http://localhost:50592/docs/foundation/publicips/</link>
+      <link>http://localhost:50987/docs/foundation/publicips/</link>
       <pubDate>Fri, 03 Jan 2025 22:24:51 -0500</pubDate>
       
-      <guid>http://localhost:50592/docs/foundation/publicips/</guid>
+      <guid>http://localhost:50987/docs/foundation/publicips/</guid>
       <description>
         
         
@@ -186,10 +186,10 @@
     
     <item>
       <title>Service Accounts</title>
-      <link>http://localhost:50592/docs/foundation/serviceaccounts/</link>
+      <link>http://localhost:50987/docs/foundation/serviceaccounts/</link>
       <pubDate>Fri, 03 Jan 2025 22:26:55 -0500</pubDate>
       
-      <guid>http://localhost:50592/docs/foundation/serviceaccounts/</guid>
+      <guid>http://localhost:50987/docs/foundation/serviceaccounts/</guid>
       <description>
         
         
@@ -199,10 +199,10 @@
     
     <item>
       <title>Keys</title>
-      <link>http://localhost:50592/docs/foundation/keys/</link>
+      <link>http://localhost:50987/docs/foundation/keys/</link>
       <pubDate>Fri, 03 Jan 2025 22:27:31 -0500</pubDate>
       
-      <guid>http://localhost:50592/docs/foundation/keys/</guid>
+      <guid>http://localhost:50987/docs/foundation/keys/</guid>
       <description>
         
         
